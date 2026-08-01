@@ -1,21 +1,18 @@
 # Hi, I'm Rajendra 👋
 
-I'm an AI Engineer with a background in building production web applications.
-
-I'm currently building **AskDocs**, a Retrieval-Augmented Generation (RAG) application from scratch while deepening my understanding of modern AI Engineering through hands-on projects, technical documentation, and continuous learning.
+I'm an AI Engineer with a background in building production web applications, currently focused on building AI applications.
 
 ## 🚀 About Me
 
 - 💻 3+ years of experience building production web applications.
-- 🤖 AI Engineer focused on building real-world AI applications.
-- 🚀 Currently building **AskDocs**, a Retrieval-Augmented Generation (RAG) application from scratch.
-- 📚 Deepening my expertise in AI Engineering through hands-on projects, technical documentation, and continuous learning.
+- 🤖 Building AI applications with a hands-on, project-first approach.
+- 📚 Continuously learning through technical documentation and real-world implementation.
 
 ## 🔭 Currently Building
 
-- **AskDocs** – A Retrieval-Augmented Generation (RAG) application built from scratch.
-- Building a strong foundation in AI Engineering through hands-on implementation.
-- Exploring vector databases, retrieval systems, and modern AI application architecture.
+- 📄 **AskDocs** – A Retrieval-Augmented Generation (RAG) application built from scratch.
+- 🚧 Currently under active development.
+- 🔍 Exploring vector databases, retrieval systems, and modern AI application architecture.
 
 ## 🌱 Currently Learning
 
@@ -25,43 +22,56 @@ I'm currently building **AskDocs**, a Retrieval-Augmented Generation (RAG) appli
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python, JavaScript
+### Languages
+- Python
+- JavaScript
 
-**AI & ML**
-- Retrieval-Augmented Generation (RAG), Scikit-learn, XGBoost
+### AI & ML
+- Retrieval-Augmented Generation (RAG)
+- Scikit-learn
+- XGBoost
 
-**Vector Databases**
-- Qdrant, Pinecone
+### Vector Databases
+- Qdrant
+- Pinecone
 
-**Web**
-- React, Next.js, Gatsby, GraphQL, Tailwind CSS
+### Web
+- React
+- Next.js
+- Gatsby
+- GraphQL
+- Tailwind CSS
 
-**Cloud & Tools**
-- AWS, AWS Amplify, Git, GitHub
+### Cloud & Tools
+- AWS
+- AWS Amplify
+- Git
+- GitHub
 
-**CMS**
-- Sanity, Contentful, Strapi
+### CMS
+- Sanity
+- Contentful
+- Strapi
 
 ## ⭐ Featured Projects
 
 ### 📄 AskDocs *(In Progress)*
+
 A Retrieval-Augmented Generation (RAG) application built from scratch using Python and Qdrant.
 
-🔗 Repository: https://github.com/rajendra-arya/askdocs
+🔗 [Repository](https://github.com/rajendra-arya/askdocs)
 
 ### 🏥 Healthcare Premium Prediction
+
 End-to-end machine learning application for healthcare insurance premium prediction using Scikit-learn, XGBoost, and Streamlit.
 
-🔗 Repository: YOUR_REPO_LINK
-🔗 Live Demo: https://premium-predict.streamlit.app/
+🔗 [Repository](https://github.com/rajendra-arya/healthcare-premium-prediction)    🔗 [Live Demo](https://premium-predict.streamlit.app/)
 
 ### 🏢 Tig Freight Website
+
 Production website built using Gatsby, React, Sanity CMS, and AWS Amplify.
 
-🔗 Company Website: https://www.tigfreight.com/
-🔗 Demo (Version I Developed): https://tig-dev.vercel.app/
-
+🔗 [Company Website](https://www.tigfreight.com/)    🔗 [Demo (Version I Developed)](https://tig-dev.vercel.app/)
 <!--
 **rajendra-arya/rajendra-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
